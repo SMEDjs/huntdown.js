@@ -1,0 +1,16 @@
+{
+  "name": "huntdown.js",
+  "version": "1.1.0",
+  "description": "Hunt down social media with username.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hunt",
+    "social",
+    "media"
+  ],
+  "author": "https://github.com/SMEDjs",
+  "license": "MIT"
+}
